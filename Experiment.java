@@ -3,38 +3,34 @@ public class Experiment {
     private String name;
     private int weight;
     private int rating;
-    public Experiment next;
-    public Experiment prev;
+    private double ratio;
 
     public Experiment(int id, String name, int weight, int rating) {
         this.id = id;
         this.name = name;
         this.weight = weight;
         this.rating = rating;
+        this.ratio = weight / rating;
     }
 
-    public void setNext(int id, String name, int weight, int rating) {
-        // TODO
+    public int getId() {
+        return id;
     }
 
-    public void setNext(Experiment e) {
-        // TODO
+    public String getName() {
+        return name;
     }
 
-    public void setPrev(int id, String name, int weight, int rating) {
-        // TODO
+    public int getWeight() {
+        return weight;
     }
 
-    public void setPrev(Experiment e) {
-        // TODO
+    public int getRating() {
+        return rating;
     }
 
-    public Experiment getNext() {
-        return next;
-    }
-
-    public Experiment getPrev() {
-        return prev;
+    public double getRatio() {
+        return ratio; // TODO: need to calculate ratio.
     }
 
     @Override
