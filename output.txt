@@ -1,0 +1,55 @@
+[H[2J[3JCompiling...
+Output...
+
+
+Sorted by weight:
+[6, Seed Viability, 7kg, 4]
+[12, Yeast Fermentation, 27kg, 4]
+[1, Cloud Patterns, 36kg, 5]
+[8, Mice Tumors, 65kg, 8]
+[9, Microgravity Plant Growth, 75kg, 5]
+[11, Cosmic Rays, 80kg, 7]
+[7, Sun Spots, 90kg, 2]
+[5, Relativity, 104kg, 8]
+[10, Micrometeorites, 170kg, 9]
+Total rating: 52, total weight: 654
+
+
+Sorted by rating:
+[7, Sun Spots, 90kg, 2]
+[6, Seed Viability, 7kg, 4]
+[12, Yeast Fermentation, 27kg, 4]
+[1, Cloud Patterns, 36kg, 5]
+[9, Microgravity Plant Growth, 75kg, 5]
+[3, Solar Power, 188kg, 6]
+[11, Cosmic Rays, 80kg, 7]
+[5, Relativity, 104kg, 8]
+[8, Mice Tumors, 65kg, 8]
+Total rating: 49, total weight: 672
+
+
+Sorted by ratio:
+[6, Seed Viability, 7kg, 4]
+[12, Yeast Fermentation, 27kg, 4]
+[1, Cloud Patterns, 36kg, 5]
+[8, Mice Tumors, 65kg, 8]
+[11, Cosmic Rays, 80kg, 7]
+[5, Relativity, 104kg, 8]
+[9, Microgravity Plant Growth, 75kg, 5]
+[10, Micrometeorites, 170kg, 9]
+[7, Sun Spots, 90kg, 2]
+Total rating: 52, total weight: 654
+
+
+Dynamic programming approach: 
+max rating: 53
+items included: 
+[1, Cloud Patterns, 36kg, 5]
+[4, Binary Stars, 203kg, 8]
+[5, Relativity, 104kg, 8]
+[6, Seed Viability, 7kg, 4]
+[8, Mice Tumors, 65kg, 8]
+[10, Micrometeorites, 170kg, 9]
+[11, Cosmic Rays, 80kg, 7]
+[12, Yeast Fermentation, 27kg, 4]
+Total rating: 53, total weight: 692
