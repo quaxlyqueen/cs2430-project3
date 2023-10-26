@@ -1,0 +1,15 @@
+/home/jashton/school/cs2430/cs2430-project3/bin/Debug/net7.0/cs2430-project3
+/home/jashton/school/cs2430/cs2430-project3/bin/Debug/net7.0/cs2430-project3.deps.json
+/home/jashton/school/cs2430/cs2430-project3/bin/Debug/net7.0/cs2430-project3.runtimeconfig.json
+/home/jashton/school/cs2430/cs2430-project3/bin/Debug/net7.0/cs2430-project3.dll
+/home/jashton/school/cs2430/cs2430-project3/bin/Debug/net7.0/cs2430-project3.pdb
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/cs2430-project3.csproj.AssemblyReference.cache
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/cs2430-project3.GeneratedMSBuildEditorConfig.editorconfig
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/cs2430-project3.AssemblyInfoInputs.cache
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/cs2430-project3.AssemblyInfo.cs
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/cs2430-project3.csproj.CoreCompileInputs.cache
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/cs2430-project3.dll
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/refint/cs2430-project3.dll
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/cs2430-project3.pdb
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/cs2430-project3.genruntimeconfig.cache
+/home/jashton/school/cs2430/cs2430-project3/obj/Debug/net7.0/ref/cs2430-project3.dll

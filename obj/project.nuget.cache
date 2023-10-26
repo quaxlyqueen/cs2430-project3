@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TdpV5B9w2MfNBjhq3+eI4XjtQ/a3MP4sCjWB/IVGm0L8TARUeE7dEN1FRrvKz3PBJsafhZwiCnKrZiKXotJtkA==",
+  "success": true,
+  "projectFilePath": "/home/jashton/school/cs2430/cs2430-project3/cs2430-project3.csproj",
+  "expectedPackageFiles": [
+    "/home/jashton/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
